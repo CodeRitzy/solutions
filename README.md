@@ -1,5 +1,5 @@
 # solutions
-Consists of solutions from competitive programming sites
+Consists of solutions from competitive programming sites, but mainly LeetCode
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
